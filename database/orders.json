@@ -1,0 +1,14 @@
+[
+    {
+        "order_id": 1,
+        "client_id": 1,
+        "product_id": 1,
+        "count": 10
+    },
+    {
+        "order_id": 2,
+        "client_id": 12,
+        "product_id": 1,
+        "count": 20
+    }
+]
